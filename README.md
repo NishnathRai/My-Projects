@@ -5,7 +5,7 @@
 **I am a skilled Java developer with a strong foundation in** **Data Structures and Algorithms (DSA)**
 
 **My technical expertise includes**  
-**React, JavaScript, HTML, CSS, Tailwind CSS, GSAP, and SQL,**  
+**React,Java, JavaScript, HTML, CSS, Tailwind CSS, GSAP, and SQL,**  
 which I use to build efficient, responsive, and dynamic applications.
 
 ---
