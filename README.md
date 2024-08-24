@@ -1,12 +1,22 @@
-# My-Projects
 
-# About Me 
 
+# About Me 🫶
+
+
+<br>
 I am a skilled Java developer with a strong foundation in **Data Structures and Algorithms (DSA)**.
-My technical expertise includes ** React,Javascript, HTML, CSS, Tailwind CSS, GSAP, and SQL, **
+<br>
+My technical expertise includes
+<br>
+**React,Javascript, HTML, CSS, Tailwind CSS, GSAP, and SQL,**
+<br>
 which I use to build efficient, responsive, and dynamic applications.
+<br>
+<br>
 
-# About Me in Code
+
+
+# Run Me 🧑‍💻
 
 
 ```java
