@@ -3,7 +3,6 @@
 
 # About Me
 
-```java and Javascript
 
 public class Developer {
     private String **skills** = "**Java,Javascript, DSA, React, HTML, CSS, Tailwind CSS, GSAP, SQL**";
