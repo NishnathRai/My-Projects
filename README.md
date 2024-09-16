@@ -10,9 +10,10 @@ which I use to build efficient, responsive, and dynamic applications.
 
 ---
 
+- **Swiggy Clone (React.js Frontend Project):** [Check it out here](https://6616801ae4ab0726b0536fdc--taupe-banoffee-169fe1.netlify.app)
+- **Chess game (React.js Frontend Project):** [Check it out here](https://66e8732392e9354c9acc2654--tourmaline-taffy-03859b.netlify.app/)
 - **LinkedIn:** [www.linkedin.com/in/nishnathrai](https://www.linkedin.com/in/nishnathrai)
 - **Portfolio:** [Visit my Portfolio](https://664e221f3c46e20487c3f243--gleaming-scone-05867b.netlify.app)
-- **Swiggy Clone (React.js Frontend Project):** [Check it out here](https://6616801ae4ab0726b0536fdc--taupe-banoffee-169fe1.netlify.app)
 - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/nishnathnishu1122/)
 
 
