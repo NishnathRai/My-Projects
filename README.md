@@ -5,7 +5,7 @@
 **I am a skilled Java developer with a strong foundation in** **Data Structures and Algorithms (DSA)**
 
 **My technical expertise includes**  
-**React,Java, JavaScript, HTML, CSS, Tailwind CSS, GSAP, and SQL,**  
+**React,Java, JavaScript, HTML, CSS, Tailwind CSS, GSAP, Node.js , Express.js , and Mongodb**  
 which I use to build efficient, responsive, and dynamic applications.
 
 ---
@@ -29,7 +29,7 @@ which I use to build efficient, responsive, and dynamic applications.
 
 ```java
 public class Developer {
-    private String skills = "Java, Javascrpt, DSA, React, HTML, CSS, Tailwind CSS, GSAP, SQL";
+    private String skills = "Java, Javascrpt, DSA, React, HTML, CSS, Tailwind CSS, GSAP, mongodb , Node.js , Express.js ";
     private String[] strengths = {"Efficient", "Responsive", "Dynamic"};
     private String role = "Good Front-End Developer";
 
