@@ -11,6 +11,7 @@ which I use to build efficient, responsive, and dynamic applications.
 ---
 - **Chatting app ( React.js & Node.js & Express.js & Mongodb):**
    [Deployed Link](https://rococo-cannoli-937fb2.netlify.app/)  ---  [Github Link](https://github.com/NishnathRai/chattingApp)
+ - **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/nishnathnishu1122/)
 - **Swiggy Clone (React.js Frontend Project):**
    [Deployed link](https://6616801ae4ab0726b0536fdc--taupe-banoffee-169fe1.netlify.app)
 - **Chess game (React.js Frontend Project):**
@@ -19,7 +20,7 @@ which I use to build efficient, responsive, and dynamic applications.
   [Deployed Link](https://fascinating-arithmetic-8661e7.netlify.app/)  ---  [Github Link](https://github.com/NishnathRai/BFSvisiluzier)
 - **LinkedIn:** [www.linkedin.com/in/nishnathrai](https://www.linkedin.com/in/nishnathrai)
 - **Portfolio:** [Visit my Portfolio](https://664e221f3c46e20487c3f243--gleaming-scone-05867b.netlify.app)
-- **LeetCode:** [My LeetCode Profile](https://leetcode.com/u/nishnathnishu1122/)
+
 
 
 
